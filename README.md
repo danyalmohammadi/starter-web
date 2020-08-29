@@ -16,5 +16,7 @@ This section is for deployment log
 
 The final edit
 
+please fork this repository and pull
+
 ### Copyright section
 copyright notice read me
