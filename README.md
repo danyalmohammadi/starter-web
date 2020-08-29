@@ -12,3 +12,6 @@ What is the purose
 This section is for deployment log
 
 ## How To Contribute
+1-2-3 one-two-three
+
+The final edit
