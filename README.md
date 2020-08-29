@@ -15,3 +15,6 @@ This section is for deployment log
 1-2-3 one-two-three
 
 The final edit
+
+### Copyright section
+copyright notice read me
